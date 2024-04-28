@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+h2{
+    color: white;
+    font-style: italic;
+    padding: 1%;
+}
+p {
+    max-width: 83ch;
+    text-align: justify;
+    float: inline-end;
+    color: white;
+    font-size: larger;
+}
+img {
+    padding: 1%;
+  }
+.Q{
+    text-align: right;
+    color: darkcyan;
+}
+#image1{
+    scale: 0.9;
+    transition: 0.2s;
+    border-width:3px;
+    border-style:outset;
+    border-color:white;
+    background-color: lightcoral;
+    border-radius: 20px;
+}
+#image1:hover{
+    scale: 1;
+}
+#r{
+    background-color: rgb(190, 190, 117);
+}
+#cha{
+    scale: 1.5;
+    color: darkcyan;
+}
+#ran{
+    color: darkcyan;
+}
+#tv{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+    
+}
+#y{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+#z{
+    text-align: center;
+    white-space: pre-wrap;
+    color: darkblue;
+}
+
+
